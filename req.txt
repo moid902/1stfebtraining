@@ -1,0 +1,4 @@
+python==3.8
+django==2.3
+numpy==1.3
+
